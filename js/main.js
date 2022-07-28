@@ -64,6 +64,8 @@ let integrante1 = function () {
 /*******************************************************/
 /*      ¡¡¡ BONUS !!!                                  */
 /*******************************************************/
+/* ES RECOMENTABLE COMENTAR LOS PUNTOS ANTERIORES ANTES DE ULTILIZAR EL BONUS */
+
 
 /* let primerNombre = 'Gabriel'
 let segundoNombre = 'Alejandro'
